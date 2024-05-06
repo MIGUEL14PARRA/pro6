@@ -1,0 +1,39 @@
+2024/05/06-17:39:03.180 36e8 Reusing MANIFEST C:\Users\wendy\AppData\Local\Temp\flutter_tools.64ee8464\flutter_tools_chrome_device.61742c74\Default\Session Storage/MANIFEST-000001
+2024/05/06-17:39:03.181 36e8 Recovering log #3
+2024/05/06-17:39:03.187 36e8 Reusing old log C:\Users\wendy\AppData\Local\Temp\flutter_tools.64ee8464\flutter_tools_chrome_device.61742c74\Default\Session Storage/000003.log 
+2024/05/06-17:46:36.041 36e8 Level-0 table #5: started
+2024/05/06-17:46:36.051 36e8 Level-0 table #5: 76407 bytes OK
+2024/05/06-17:46:36.055 36e8 Delete type=0 #3
+2024/05/06-17:52:59.431 4154 Level-0 table #7: started
+2024/05/06-17:52:59.441 4154 Level-0 table #7: 74436 bytes OK
+2024/05/06-17:52:59.445 4154 Delete type=0 #4
+2024/05/06-17:54:31.884 4154 Level-0 table #9: started
+2024/05/06-17:54:31.899 4154 Level-0 table #9: 74372 bytes OK
+2024/05/06-17:54:31.904 4154 Delete type=0 #6
+2024/05/06-17:54:48.401 4154 Level-0 table #11: started
+2024/05/06-17:54:48.416 4154 Level-0 table #11: 74323 bytes OK
+2024/05/06-17:54:48.419 4154 Delete type=0 #8
+2024/05/06-17:56:19.072 4154 Level-0 table #13: started
+2024/05/06-17:56:19.077 4154 Level-0 table #13: 76099 bytes OK
+2024/05/06-17:56:19.081 4154 Delete type=0 #10
+2024/05/06-17:57:29.975 4154 Level-0 table #15: started
+2024/05/06-17:57:29.996 4154 Level-0 table #15: 529587 bytes OK
+2024/05/06-17:57:30.000 4154 Delete type=0 #12
+2024/05/06-17:57:30.002 4154 Compacting 4@0 + 1@1 files
+2024/05/06-17:57:30.027 4154 Generated table #16@0: 36 keys, 825838 bytes
+2024/05/06-17:57:30.027 4154 Compacted 4@0 + 1@1 files => 825838 bytes
+2024/05/06-17:57:30.028 4154 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/06-17:57:30.030 4154 Delete type=2 #7
+2024/05/06-17:57:30.030 4154 Delete type=2 #9
+2024/05/06-17:57:30.030 4154 Delete type=2 #11
+2024/05/06-17:57:30.030 4154 Delete type=2 #13
+2024/05/06-17:57:30.031 4154 Delete type=2 #15
+2024/05/06-18:06:46.427 4154 Level-0 table #18: started
+2024/05/06-18:06:46.443 4154 Level-0 table #18: 370521 bytes OK
+2024/05/06-18:06:46.447 4154 Delete type=0 #14
+2024/05/06-18:20:14.345 36e8 Level-0 table #20: started
+2024/05/06-18:20:14.362 36e8 Level-0 table #20: 241277 bytes OK
+2024/05/06-18:20:14.365 36e8 Delete type=0 #17
+2024/05/06-18:36:13.449 4154 Level-0 table #22: started
+2024/05/06-18:36:13.472 4154 Level-0 table #22: 618129 bytes OK
+2024/05/06-18:36:13.476 4154 Delete type=0 #19
